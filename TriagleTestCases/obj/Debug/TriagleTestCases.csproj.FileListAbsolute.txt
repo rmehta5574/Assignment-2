@@ -1,0 +1,12 @@
+C:\Users\Dell\source\repos\SqaTriangle\TriagleTestCases\bin\Debug\TriagleTestCases.dll
+C:\Users\Dell\source\repos\SqaTriangle\TriagleTestCases\bin\Debug\TriagleTestCases.pdb
+C:\Users\Dell\source\repos\SqaTriangle\TriagleTestCases\bin\Debug\nunit.framework.dll
+C:\Users\Dell\source\repos\SqaTriangle\TriagleTestCases\bin\Debug\SqaTriangle.exe
+C:\Users\Dell\source\repos\SqaTriangle\TriagleTestCases\bin\Debug\SqaTriangle.pdb
+C:\Users\Dell\source\repos\SqaTriangle\TriagleTestCases\bin\Debug\SqaTriangle.exe.config
+C:\Users\Dell\source\repos\SqaTriangle\TriagleTestCases\bin\Debug\nunit.framework.xml
+C:\Users\Dell\source\repos\SqaTriangle\TriagleTestCases\obj\Debug\TriagleTestCases.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\SqaTriangle\TriagleTestCases\obj\Debug\TriagleTestCases.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\SqaTriangle\TriagleTestCases\obj\Debug\TriagleTestCases.csproj.CopyComplete
+C:\Users\Dell\source\repos\SqaTriangle\TriagleTestCases\obj\Debug\TriagleTestCases.dll
+C:\Users\Dell\source\repos\SqaTriangle\TriagleTestCases\obj\Debug\TriagleTestCases.pdb
