@@ -51,6 +51,7 @@ namespace TriagleTestCases
             String d = TriangleSolver.Analyze(side1, side2, side3);
             StringAssert.Contains(st, d);
         }
+        [Test]
         public void TestCase_NegativeScalene()//Test case for negative scalene
         {
             int side1 = -5, side2 = -7, side3 = -9;

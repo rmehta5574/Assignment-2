@@ -20,7 +20,7 @@ namespace SqaTriangle
 
                 String choice = Console.ReadLine();
                 int[] values= new int[3];
-                if (choice.Equals("1"))
+                if (choice.Equals("1"))//will go for required triangle choosing from triangle solver class
                 {
                     for(int i = 0; i < 3; i++)
                     {
